@@ -20,3 +20,6 @@ This tool runs directly in your browser: simply select the files or folders you 
 
 > 💡 Résultats sous forme de liste
 ![](/screenshots/results_list.png)
+
+> 💡 Détails sur un film
+![](/screenshots/movie_card_details.png)
